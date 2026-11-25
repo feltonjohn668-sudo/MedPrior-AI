@@ -1,0 +1,16 @@
+branded_medicine,salt_composition,therapeutic_category,dosage_form,branded_price_inr,alternative_name,alternative_manufacturer,alternative_price_inr,units_per_pack,savings_percentage,availability
+Crocin,Paracetamol,Analgesic/antipyretic,Tablet,15.00,Paracetamol generic,Generic example,10.00,10,33.3,Illustrative
+Dolo 650,Paracetamol,Analgesic/antipyretic,Tablet,18.00,Paracetamol generic,Generic example,12.00,10,33.3,Illustrative
+Calpol,Paracetamol,Analgesic/antipyretic,Tablet,16.00,Paracetamol generic,Generic example,11.00,10,31.3,Illustrative
+Allegra,Fexofenadine,Antihistamine,Tablet,25.00,Fexofenadine generic,Generic example,17.00,10,32.0,Illustrative
+Zyrtec,Cetirizine,Antihistamine,Tablet,12.00,Cetirizine generic,Generic example,8.00,10,33.3,Illustrative
+Augmentin,Amoxicillin + clavulanate,Antibiotic,Tablet,80.00,Amoxicillin + clavulanate generic,Generic example,55.00,10,31.3,Illustrative; prescription antibiotic
+Azithral,Azithromycin,Antibiotic,Tablet,45.00,Azithromycin generic,Generic example,30.00,3,33.3,Illustrative; prescription antibiotic
+Becosules,B-complex vitamins,Vitamin supplement,Capsule,8.00,B-complex generic,Generic example,5.00,10,37.5,Illustrative
+Shelcal,Calcium + vitamin D3,Supplement,Tablet,20.00,Calcium + vitamin D3 generic,Generic example,14.00,10,30.0,Illustrative
+Pan-D,Pantoprazole + domperidone,Acid-related medicine,Capsule,15.00,Pantoprazole + domperidone generic,Generic example,10.00,10,33.3,Illustrative
+Omez,Omeprazole,Acid-related medicine,Capsule,10.00,Omeprazole generic,Generic example,7.00,10,30.0,Illustrative
+Limcee,Vitamin C,Supplement,Tablet,5.00,Vitamin C generic,Generic example,3.50,10,30.0,Illustrative
+Neurobion Forte,B vitamins,Vitamin supplement,Tablet,10.00,B-vitamin generic,Generic example,7.00,10,30.0,Illustrative
+Cetzine,Cetirizine,Antihistamine,Tablet,10.00,Cetirizine generic,Generic example,7.00,10,30.0,Illustrative
+Combiflam,Ibuprofen + paracetamol,Analgesic,Tablet,12.00,Ibuprofen + paracetamol generic,Generic example,8.00,10,33.3,Illustrative

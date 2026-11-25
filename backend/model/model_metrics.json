@@ -1,0 +1,6 @@
+{
+  "MAE": 4.13672821521759,
+  "RMSE": 4.756120206666252,
+  "R2": 0.8555467549471639,
+  "note": "Metrics are for synthetic demonstration data; not clinically validated."
+}
