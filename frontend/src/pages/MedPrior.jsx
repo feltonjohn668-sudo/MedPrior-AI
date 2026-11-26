@@ -1,5 +1,6 @@
 import { useState } from 'react';
 import { ArrowRight, LoaderCircle } from 'lucide-react';
+import { API_BASE } from '../api.js';
 
 // Data Constants
 const symptoms = [
@@ -81,7 +82,7 @@ export default function MedPrior({ onResult, onMedicines }) {
     setBusy(true);
 
     try {
-      const res = await fetch('/api/predict', {
+      const res = await fetch(`${API_BASE}/api/predict`, {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify(form)

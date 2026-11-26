@@ -8,6 +8,7 @@ import {
   Trash2,
   CheckCircle2
 } from 'lucide-react';
+import { API_BASE } from '../api.js';
 
 export default function SaltSaver({ selected = [], result }) {
   // --- State Declarations ---
@@ -28,7 +29,7 @@ export default function SaltSaver({ selected = [], result }) {
 
   // --- Fetch Catalogue on Mount ---
   useEffect(() => {
-    fetch('/api/medicines')
+    fetch(`${API_BASE}/api/medicines`)
       .then((r) => r.json())
       .then(setCatalog)
       .catch(() => setCatalog([]));
